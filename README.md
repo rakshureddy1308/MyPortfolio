@@ -4,7 +4,7 @@ Welcome to my virtual space! 🌌 This is where I showcase my work, share my ski
 
 ## 🌟 Live Demo
 
-Check it out live [here]() — come take a look!
+Check it out live [here](https://yourusername.github.io/portfolio) — come take a look!
 
 ---
 
@@ -12,7 +12,7 @@ Check it out live [here]() — come take a look!
 
 | Light Theme 🌞                                        | Dark Theme 🌜                                        |
 |-------------------------------------------------------|------------------------------------------------------|
-| ![Light Theme Screenshot]([./screenshots/light-theme.png](https://github.com/rakshureddy1308/MyPortfolio/blob/main/assets/img/light.jpeg)) | ![Dark Theme Screenshot]([./screenshots/dark-theme.png](https://github.com/rakshureddy1308/MyPortfolio/blob/main/assets/img/dark.jpeg)) |
+| ![Light Theme Screenshot](https://github.com/rakshureddy1308/MyPortfolio/blob/main/assets/img/light.jpeg) | ![Dark Theme Screenshot](https://github.com/rakshureddy1308/MyPortfolio/blob/main/assets/img/dark.jpeg) |
 
 > _Switch between light and dark themes for a tailored experience!_
 
@@ -20,13 +20,13 @@ Check it out live [here]() — come take a look!
 
 ## 💻 Tech Stack
 
-This portfolio was crafted with love and the following technologies:
+Here's the stack I used to build this portfolio:
 
-- **HTML5** — Structuring the content with semantic markup.
-- **CSS3** — Custom styling, animations, and responsiveness.
-- **JavaScript** — Handling interactions and theme toggling.
-- **AOS (Animate on Scroll)** — Making elements dance as you scroll.
-- **Unicons/Font Awesome** — Icons to enhance visual appeal.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AOS](https://img.shields.io/badge/AOS-animate--on--scroll-00CCBB?style=for-the-badge)
+![Unicons](https://img.shields.io/badge/Unicons-FF6B00?style=for-the-badge&logo=unicons&logoColor=white)
 
 ---
 
@@ -45,8 +45,8 @@ Want to explore my portfolio on your own machine? Here’s how:
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/rakshureddy1308/pMyPortfolio.git
-    cd portfolio-website
+    git clone https://github.com/rakshureddy1308/MyPortfolio.git
+    cd MyPortfolio
     ```
 
 2. **Open `index.html`** in your preferred browser to start exploring.
