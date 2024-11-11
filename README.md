@@ -4,7 +4,7 @@ Welcome to my virtual space! 🌌 This is where I showcase my work, share my ski
 
 ## 🌟 Live Demo
 
-Check it out live [here](https://yourusername.github.io/portfolio) — come take a look!
+Check it out live [here]([https://yourusername.github.io/portfolio](https://main.d3qfw0s2bucpk9.amplifyapp.com/)) — come take a look!
 
 ---
 
