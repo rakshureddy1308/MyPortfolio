@@ -12,7 +12,7 @@ Check it out live [here]() — come take a look!
 
 | Light Theme 🌞                                        | Dark Theme 🌜                                        |
 |-------------------------------------------------------|------------------------------------------------------|
-| ![Light Theme Screenshot](./screenshots/light-theme.png) | ![Dark Theme Screenshot](./screenshots/dark-theme.png) |
+| ![Light Theme Screenshot]([./screenshots/light-theme.png](https://github.com/rakshureddy1308/MyPortfolio/blob/main/assets/img/light.jpeg)) | ![Dark Theme Screenshot]([./screenshots/dark-theme.png](https://github.com/rakshureddy1308/MyPortfolio/blob/main/assets/img/dark.jpeg)) |
 
 > _Switch between light and dark themes for a tailored experience!_
 
